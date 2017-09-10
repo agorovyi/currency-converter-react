@@ -9,3 +9,5 @@ Getting Started
 3. `npm install` or `yarn` to install dependencies
 4. `npm start` or `yarn start` to run local dev server with the development build
 5. `npm build` or `yarn build` to build for production
+
+Demo can be viewed [here](https://agorovyi.github.io/)
