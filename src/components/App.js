@@ -28,7 +28,7 @@ class App extends Component {
           <div className="slds-grid slds-grid_frame slds-wrap slds-grid_vertical-align-center slds-grid_align-space">
             <Curcon data={data} base="CAD" currency={['USD', 'EUR']} title="Currency Converter from CAD" />
             <Curcon data={data} base="USD" currency={['CAD', 'EUR']} title="Currency Converter from USD" />
-            <Curcon data={data} base="EUR" currency={['CAD', 'CAD']} title="Currency Converter from EUR" />
+            <Curcon data={data} base="EUR" currency={['CAD', 'USD']} title="Currency Converter from EUR" />
           </div>
         )}
       </div>
